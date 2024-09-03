@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Pmanjr
-- 👀 I’m interested in ethical hacking
+- 👋 Hi, My name is Precious
+- 👀 I’m interested in becoming a front-end devolper
 - 🌱 I’m currently learning about it
 - 📫 How to reach me IG@ Pmanjr
 
