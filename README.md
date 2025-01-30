@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Precious
-- 👀 I’m interested in becoming a front-end devolper
+- 👀 I’m an upcoming software developer
 - 🌱 I’m currently learning about it
 - 📫 How to reach me IG@ Pmanjr
 
