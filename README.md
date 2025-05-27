@@ -1,8 +1,6 @@
-## 👋 Hi, I'm Precious
+I'm a Mobile App Developer with 4 years of hands-on experience building beautiful, scalable, and performance-driven mobile applications using Flutter 💙. I specialize in crafting seamless cross-platform experiences that delight users and solve real-world problems.
 
-🧠 I’m an upcoming software developer</br>
-🌱 I’m currently learning about it</br>
-📫 Feel free to reach out to me on [Instagram](http://www.instagram.com/pmanjr/)
+I'm currently open to exciting opportunities — let's build something great together! 💼🚀
 
 
 
