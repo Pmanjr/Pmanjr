@@ -1,4 +1,4 @@
-# Hey there! I'm Obiajulu Precious Somtochukwu 👋
+# Hey there! I'm Precious 👋
 
 <div align="center">
 
@@ -56,17 +56,17 @@
 
 </div>
 
-## 📊 Most Used Languages
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pmanjr&layout=compact&langs_count=8&hide_border=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmanjr&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true)
 
 </div>
 
 <div align="center">
 
-**"Building mobile solutions that make a real difference in people's lives"**
+**"Building solutions that make a real difference in people's lives"**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pmanjr&color=0080ff&style=flat-square&label=Profile+Views)
 
