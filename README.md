@@ -1,19 +1,12 @@
-# 👋 Hey there! I'm Precious — Software Developer & Mobile Enthusiast
+# Hi, I'm Precious 👋
 
-I'm a Software Developer with 2+ years of hands-on experience building **beautiful**, **scalable**, and **performance-driven mobile applications** using **Flutter 💙**. I specialize in delivering **cross-platform experiences** that are intuitive, fast, and reliable — solving real-world problems with clean, maintainable code.
+Software Developer with 2+ years of experience building cross-platform mobile apps with **Flutter** and web applications with **React**. I care about clean code, intuitive UX, and shipping things that actually work.
 
-Currently open to new opportunities — let’s build something impactful together! 💼🚀
+Currently open to freelance and contract opportunities.
 
 ---
-
-<!-- Tech Stack Header -->
-<div align="center">
 
 ## 🛠️ Tech Stack
-
-</div>
-
----
 
 ### 📱 Mobile Development
 
@@ -22,11 +15,8 @@ Currently open to new opportunities — let’s build something impactful togeth
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 </div>
-
----
 
 ### 🌐 Frontend
 
@@ -41,20 +31,15 @@ Currently open to new opportunities — let’s build something impactful togeth
 
 </div>
 
----
-
 ### ⚙️ Backend & APIs
 
 <div align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
-
----
 
 ### 🗄️ Databases
 
@@ -63,21 +48,20 @@ Currently open to new opportunities — let’s build something impactful togeth
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FF7A00?style=for-the-badge&logo=hive&logoColor=white)
 
 </div>
-
----
 
 ### 🤖 AI & Integrations
 
 <div align="center">
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 </div>
-
----
 
 ### 🔧 DevOps & Tools
 
@@ -86,44 +70,22 @@ Currently open to new opportunities — let’s build something impactful togeth
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Most Used Languages
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pmanjr&layout=compact&langs_count=8&hide_border=true&theme=default)
 
 </div>
 
 ---
 
 > *"Building mobile solutions that make a real difference in people's lives"*
-
----
-
-## 🚀 What I Bring to the Table
-
-- ✅ Pixel-perfect UI/UX implementation  
-- ✅ Scalable and maintainable app architecture  
-- ✅ Experience building from MVP to production  
-- ✅ Collaborative team player with strong problem-solving skills  
-- ✅ Always learning, always improving  
-
----
-
-## 📊 GitHub Activity & Stats
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pmanjr&layout=compact&theme=radical)
-
----
-
-## 🤝 Let's Work Together
-
-I'm currently open to **freelance, contract, or full-time roles** in:
-
-- Mobile Development (Flutter, React Native)
-- Web App Development (React)
-- Cross-platform Engineering  
-- UI/UX-Driven App Projects  
-- Scalable Product Engineering  
-
-If you're working on something exciting and need a reliable developer, feel free to reach out!
-
-- 🔗 [LinkedIn – Precious Obiajulu](https://www.linkedin.com/in/precious-obiajulu-796081368)  
-- 🐦 [Twitter – @pman_jr](https://twitter.com/pman_jr)  
-- 📧 Email: obiajulu_precious@yahoo.com
