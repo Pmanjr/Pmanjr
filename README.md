@@ -56,17 +56,9 @@
 
 </div>
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmanjr&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true)
-
-</div>
-
-<div align="center">
-
-**"Building solutions that make a real difference in people's lives"**
+**"Turning ideas into products, one line of code at a time"**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pmanjr&color=0080ff&style=flat-square&label=Profile+Views)
 
